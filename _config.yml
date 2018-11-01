@@ -13,3 +13,9 @@ github_username:  your-github-handle
 show_excerpts: true # set to false to remove excerpts on the homepage
 
 theme: minima
+
+---
+title: "First Blog post"
+date: 2018-11-01
+---
+
